@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Moh. Anif Yuliansyah
-- 👀 I’m interested in Kotlin, Android, Linux, and OSS
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Kotlin, Flutter, Android, Linux, and OSS
+- 🌱 I’m currently learning Kotlin & Flutter
 - 💞️ I’m looking to collaborate on Open Source Mini Project
 - 📫 You can contact me with email, Facebook, Twitter, Instagram, and Telegram
 - 🙇🏻‍♀️ Nice to meet you everyone
